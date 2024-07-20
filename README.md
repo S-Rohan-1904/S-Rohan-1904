@@ -11,8 +11,6 @@ With a solid background in **C programming** and extensive problem-solving exper
 - **Frontend Development:** **React**, **JavaScript**, **HTML**, **CSS**
 - **Version Control:** **Git**, **GitHub**
 - **Programming Languages:** **Python**, **TypeScript**, **C++**
-- **Tools & Technologies:** **Redux**, **Webpack**, **Babel**, **REST APIs**
-- **Testing:** **Jest**, **Enzyme**, **Cypress**
 - **Other:** **Agile methodologies**, **CI/CD**, **Azure Cognitive Services**
 
 # What I Bring to the Table
